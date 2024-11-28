@@ -22,7 +22,7 @@ const Navbar = () => {
               <li className='nav-item relative pl-5 pr-5 font-medium  text-slate-600 font-satoshi before:content-[""] before:absolute before:bottom-0 before:left-0 before:w-full before:h-[2px] before:bg-slate-600 before:scale-x-0 hover:before:scale-x-100 before:transition-transform before:duration-300 before:origin-bottom-right hover:before:origin-bottom-left hover:text-red-400'>Education</li>
             </a>
             <a href="#Exp">
-              <li className='nav-item relative pl-5 pr-5 font-medium  text-slate-600 font-satoshi before:content-[""] before:absolute before:bottom-0 before:left-0 before:w-full before:h-[2px] before:bg-slate-600 before:scale-x-0 hover:before:scale-x-100 before:transition-transform before:duration-300 before:origin-bottom-right hover:before:origin-bottom-left hover:text-red-400'>Experence</li>
+              <li className='nav-item relative pl-5 pr-5 font-medium  text-slate-600 font-satoshi before:content-[""] before:absolute before:bottom-0 before:left-0 before:w-full before:h-[2px] before:bg-slate-600 before:scale-x-0 hover:before:scale-x-100 before:transition-transform before:duration-300 before:origin-bottom-right hover:before:origin-bottom-left hover:text-red-400'>Experience</li>
             </a>
             <a href="#contact">
             <li className='pl-6 pr-6 font-medium pt-3 pb-3 font-satoshi bg-black text-white rounded-3xl hover:text-slate-900 transition-all duration-200 hover:bg-red-400'>Let's Talk</li>

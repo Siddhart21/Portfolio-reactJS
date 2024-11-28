@@ -7,11 +7,11 @@ import { Link } from 'react-router-dom';
 const Exp = () => {
     return (
         <div className='mt-36 font-satoshi font-base text-6xl' id='Exp'> 
-            <p className='ml-[252px]'>Experence</p>
+            <p className='ml-[252px]'>Experience</p>
             <div className='flex justify-center bg-gradient-to-r from-card via-[#b3d9a0] to-[#c3eaaf] mx-64 rounded-3xl p-7 mt-10 h-[500px]'>
                 <div className=' w-2/4 mt-2'>
-                    <p className='text-3xl text-left font-semibold'>Food dilevery web application</p>
-                    <p className='text-lg text-left mt-4 text-Text'>Worked on a food delivery application using ReactJS, where users can browse
+                    <p className='text-3xl text-left font-semibold'>Food ordering web application</p>
+                    <p className='text-lg text-left mt-4 text-Text'>Worked on a food ordering application using ReactJS, where users can browse
                         menus, add items to their cart, and place orders. Implemented features such as
                         user authentication, dynamic routing for seamless navigation</p>
                     <Link to="/Foodview"><button className='rounded-3xl text-base bg-black  text-white pt-3 pb-3 pl-6 pr-6 hover:bg-[#65d74e] transition-all duration-200 hover:text-white mt-44'>View more</button></Link>

@@ -4,9 +4,9 @@ const FoodView = () => {
   return (
     <div className='mt-16 text-center font-lustria text-[48px] text-[#000000c5]'>
       <div className=''>
-        Food delivery Web Application
+        Food ordering Web Application
         <div className=' w-[700px] m-auto pt-4 text-2xl text-left text-[#0000007a] font-satoshi' >
-          I developed a user-centric food delivery application using ReactJS, enabling users to browse menus, add items to their cart, and place orders effortlessly. The project emphasizes a smooth, intuitive ordering process, integrating user authentication, real-time updates, and seamless navigation. Key tools like React Router, Context API, and Redux were employed to enhance state management and user experience. Tailwind CSS was used for responsive, modern UI styling.
+          I developed a user-centric food ordering application using ReactJS, enabling users to browse menus, add items to their cart, and place orders effortlessly. The project emphasizes a smooth, intuitive ordering process, integrating user authentication, real-time updates, and seamless navigation. Key tools like React Router, Context API, and Redux were employed to enhance state management and user experience. Tailwind CSS was used for responsive, modern UI styling.
         </div>
       </div>
       <div className='mt-9 text-left text-[38px]'>
