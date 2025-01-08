@@ -23,7 +23,7 @@ const Education = () => {
                     <div className='div-1 mt-10 relative'>
                         <div className='absolute top-0 left-[-5px] h-3 w-3 rounded-full bg-red-600'></div>
                         <div className='text-lg pl-6 border-solid border-l-2 border-red-600'>
-                            <h3>Food Odering Application</h3>
+                            <h3>Fusion Center</h3>
                             <p className='font-light mt-1 text-base'>Worked as ReactJS developer</p>
                             <p className='font-semibold mt-5 text-base text-red-600'><img src="https://img.icons8.com/?size=100&id=12776&format=png&color=000000" className='inline-block W-[25px] h-[25px] mb-1' alt="img" /> 2023-2024</p>
                         </div>
